@@ -1,0 +1,44 @@
+#EXTM3U
+
+#EXTINF:-1 ,Главная
+https://www.dropbox.com/scl/fi/6rdlenpyod0audekyzbpc/uiuiui.in_1762193766.mp4?rlkey=v3muuh4bkwzl93vbpi132vlou&dl=0
+
+
+#EXTINF:-1 tvch-id="16142" group-title="ФЕДЕРАЛЬНЫЕ",ЗВЕЗДА-16142
+http://46.160.167.45:81/udp/239.254.2.180:1234
+
+#EXTINF:-1 group-title="ФЕДЕРАЛЬНЫЕ",НТВ
+http://46.63.163.145:7777/udp/237.1.2.5:1234
+
+#EXTINF:-1 tvch-id="16020" group-title="МУЗЫКАЛЬНЫЕ",BRIDGE TV РУССКИЙ ХИТ-16020
+http://46.160.167.45:81/udp/239.254.2.130:1234
+
+#EXTINF:-1 tvch-id="16087" group-title="МУЗЫКАЛЬНЫЕ",RU TV-16087
+http://46.160.167.45:81/udp/239.254.2.127:1234
+
+
+
+#EXTINF:-1 tvch-id="16101" group-title="ДЕТСКИЕ",TIJI-16101
+http://46.160.167.45:81/udp/239.254.2.195:1234
+
+#EXTINF:-1 tvch-id="16127" group-title="ДЕТСКИЕ",ДЕТСКИЙ МИР-16127
+http://46.160.167.45:81/udp/239.254.2.121:1234
+
+
+
+#EXTINF:-1 tvch-id="16110" group-title="КИНО/СЕРИАЛЫ",TV1000 РУССКОЕ КИНО-16110
+http://46.160.167.45:81/udp/239.254.2.100:1234
+
+#EXTINF:-1 tvch-id="16130" group-title="КИНО/СЕРИАЛЫ",ДОМ КИНО-16130
+http://46.160.167.45:81/udp/239.254.2.7:1234
+
+
+
+
+
+
+
+
+
+
+

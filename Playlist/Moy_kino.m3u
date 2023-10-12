@@ -1,0 +1,238 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Микс", Киномикс
+https://moobl.ru/iptv/Kinomix.m3u8
+#EXTINF:-1 group-title="Микс", Киномикс HD
+https://cdn-cache01.voka.tv:443/live/71.m3u8
+#EXTINF:-1 group-title="Микс", Viju TV1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Микс", Русский бестселлер
+http://94.230.240.12:80/rusbestseller/index.m3u8
+#EXTINF:-1 group-title="Микс", Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 group-title="Микс", Fox HD
+http://moobl.ru/iptv/Fox_HD.m3u8
+#EXTINF:-1 group-title="Микс", Fox Life
+http://45.132.87.69:8080/foxlife/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Микс", Fox Life HD
+http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="Микс", Filmbox 
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1 group-title="Микс", FilmBox Arthouse
+http://moobl.ru/iptv/Filmbox_arthouse.m3u8
+#EXTINF:-1 tvg-id="plan-b" group-title="Микс", Plan B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 group-title="Микс", TV XXI
+https://cdn-cache01.voka.tv:443/live/2018.m3u8
+#EXTINF:-1 group-title="Микс", Иллюзион+
+https://tbs01-edge11.itdc.ge/illuzionplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Микс", Кино ТВ +7
+http://live-1.otcnet.ru/kinosem/playlist.m3u8
+#EXTINF:-1 group-title="Микс", Кино ТВ HD 
+http://%64%6D%693%79-%74%76.ru/hls/CH_KIHOTVHD.m3u8
+#EXTINF:-1 group-title="Микс", Киносат
+http://%64%6D%693%79-%74%76.ru/hls/CH_KIHOCAT.m3u8
+#EXTINF:-1 group-title="Микс", Кинопоказ HD
+http://moobl.ru/iptv/Kinopokaz.m3u8
+#EXTINF:-1 group-title="Микс", Феникс+Кино 
+http://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="backustv" group-title="Микс", BackusTV HD 
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-id="start-world" group-title="Микс", Start World HD
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+#EXTINF:-1 group-title="Микс", FlixSnip 
+http://%64%6D%693%79-%74%76.ru/hls/CH_FLIXSNIP.m3u8
+#EXTINF:-1 group-title="Микс", Kinojam 2
+http://109.200.130.123:7055/play/a010
+#EXTINF:-1 group-title="Микс" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230720_080606.jpg", 312
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 group-title="Микс", 312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="Микс", Блокбастер HD
+http://moobl.ru/iptv/Blokbaster_hd.m3u8
+#EXTINF:-1 group-title="Микс", Наш кинопоказ 
+http://dmi3y-tv.ru/hls/CH_NASH_KIHOPOKA3.m3u8
+#EXTINF:-1 group-title="Микс", Наш кинопоказ HD
+http://193.33.88.172/nash_kinopokaz_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Микс", Kino24
+https://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Микс", Киносезон HD
+https://s12.federal.tv:8082/feda/kinosezon.stream/playlist.m3u8
+#EXTINF:-1 group-title="Микс", Movie Classic 
+https://s12.federal.tv:8082/feda/kkino.stream/playlist.m3u8
+#EXTINF:-1 group-title="Микс", Kinoliving HD
+http://%64%6D%693%79-%74%76.ru/hls/CH_KINOLIVINGHD.m3u8 
+#EXTINF:-1 group-title="Микс", Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Киномикс" tvg-id="ultra-hd-cinema", Ultra HD Cinema (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA/variant.m3u8
+#EXTINF:-1 group-title="Премьеры", Кинопремьера HD 
+https://cdn-cache01.voka.tv/live/73.m3u8
+#EXTINF:-1 group-title="Премьеры", Viju+ Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Премьеры", Наше новое кино 
+http://91.197.104.34:8080/NasheNovoeKino/video.m3u8
+#EXTINF:-1 group-title="Премьеры", Наше новое кино HD
+https://cdn-cache01.voka.tv:443/live/75.m3u8
+#EXTINF:-1 group-title="Премьеры", BCU Premiere HD 
+http://217.107.34.114:8001/playlist.m3u8
+#EXTINF:-1 group-title="Хиты", Кинохит 
+http://moobl.ru/iptv/Kinohit.m3u8
+#EXTINF:-1 group-title="Хиты", Кинохит HD
+https://cdn-cache01.voka.tv:443/live/70.m3u8
+#EXTINF:-1 group-title="Хиты", Дом кино Премиум HD
+http://46.151.151.245:10007/play/a009
+#EXTINF:-1 group-title="Хиты", Viju+ Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Хиты", Amedia Hit HD
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 group-title="Хиты", Amedia Premium HD 
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 group-title="Хиты" tvg-id="ntv-xit", НТВ-Хит HD 
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="Хиты", Премиальное HD 
+http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Хиты", Kion Хит
+http://ch01.spr24.net/7310/index.m3u8?token=Ti8qDtheX2PUkt
+#EXTINF:-1 group-title="Хиты", Хит
+http://moobl.ru/iptv/Hit_hd.m3u8
+#EXTINF:-1 group-title="Мужское", Viju TV1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Мужское", Мужское кино HD
+https://cdn-cache01.voka.tv:443/live/74.m3u8
+#EXTINF:-1 group-title="Мужское", Русский детектив 
+http://45.144.31.195:8010/playlist.m3u8
+#EXTINF:-1 group-title="Мужское", A1 HD
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:-1 group-title="Мужское", .black 
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+#EXTINF:-1 group-title="Мужское" tvg-id="bolt-ru", Bolt HD
+https://okkotv-live.cdnvideo.ru/channel/Bolt_HD/1080p.m3u8
+#EXTINF:-1 group-title="Мужское", День Победы HD
+http://moobl.ru/iptv/Den_Pobedy_hd.m3u8
+#EXTINF:-1 group-title="Мужское", Наше мужское HD 
+http://%64%6D%693%79-%74%76.ru/hls/CH_NASHEMUZHSKOE.m3u8
+#EXTINF:-1 group-title="Мужское", Наше крутое
+http://moobl.ru/iptv/Nashe_krutoye_hd.m3u8 
+#EXTINF:-1 group-title="Семейное", Киносемья 
+https://cdn-cache01.voka.tv/live/72.m3u8
+#EXTINF:-1 group-title="Семейное", Киносемья HD
+https://moobl.ru/iptv/Kinosemya_hd.m3u8
+#EXTINF:-1 group-title="Семейное", Star Family HD 
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 group-title="Женское", Киносвидание
+https://cdn-cache01.voka.tv/live/77.m3u8
+#EXTINF:-1 group-title="Женское", Киносвидание HD
+https://moobl.ru/iptv/Kinosvidanie_hd.m3u8
+#EXTINF:-1 group-title="Женское", Русский роман
+http://%64%6D%693%79-%74%76.ru/hls/CH_RUSSKIY_ROMAN.m3u8
+#EXTINF:-1 group-title="Женское", Русский роман HD
+http://46.151.151.245:10002/play/a0b3
+#EXTINF:-1 group-title="Женское", A2 HD
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:-1 group-title="Женское", .red
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+#EXTINF:-1 tvg-id="star-cinema" group-title="Женское", Star Cinema HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8 
+#EXTINF:-1 group-title="Женское", Про любовь
+http://moobl.ru/iptv/Pro_lyubov_hd.m3u8 
+#EXTINF:-1 group-title="Женское", Душевное
+http://moobl.ru/iptv/Dushevnoe_hd.m3u8 
+#EXTINF:-1 group-title="Женское", Романтичное
+http://moobl.ru/iptv/Romantichnoe_hd.m3u8
+#EXTINF:-1 group-title="Женское", Epic Drama 
+rtmp://93.189.60.202//1048
+#EXTINF:-1 group-title="Отечественное", Родное кино 
+https://cdn-cache01.voka.tv:443/live/80.m3u8
+#EXTINF:-1 group-title="Отечественное", Дом кино
+https://s12.federal.tv:8082/feda/domkino.stream/playlist.m3u8
+#EXTINF:-1 group-title="Отечественное", Viju TV1000 Русское кино HD
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Отечественное", Русский иллюзион
+https://tbs01-edge11.itdc.ge/rusilluzion/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Отечественное", Любимое кино 
+http://%64%6D%693%79-%74%76.ru/hls/CH_LUBIMOEKINO.m3u8
+#EXTINF:-1 tvg-id="start-air" group-title="Отечественное", Start Air HD
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+#EXTINF:-1 group-title="Отечественное", Мосфильм. Золотая коллекция 
+http://moobl.ru/iptv/Mosfilm.m3u8
+#EXTINF:-1 group-title="Отечественное", Kinojam 1
+http://193.33.88.172/kinojam1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Отечественное", Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Отечественное", BCU СССР HD
+http://217.107.34.114:8006/playlist.m3u8
+#EXTINF:-1 group-title="Отечественное", Советское кино 
+https://s12.federal.tv:8082/feda/sovkinotv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Комедии", Кинокомедия
+https://s12.federal.tv:8082/feda/komediya.stream/playlist.m3u8
+#EXTINF:-1 group-title="Комедии", Кинокомедия HD
+https://cdn-cache01.voka.tv:443/live/2116.m3u8
+#EXTINF:-1 group-title="Комедии", Viju+ Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Комедии", Shot TV
+http://93.189.224.202:82/live/Ch23/index.m3u8
+#EXTINF:-1 group-title="Комедии", Камеди HD 
+http://%64%6D%693%79-%74%76.ru/hls/CH_KAMEDI.m3u8
+#EXTINF:-1 group-title="Комедии", Комедия 
+http://91.142.158.107:8092/play/30/index.m3u8
+#EXTINF:-1 group-title="Комедии", Комедийное HD
+http://195.54.42.9:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Комедии" tvg-id="paramount-comedy", Comedy Central English
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1 group-title="Комедии", Comedy Central
+http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
+#EXTINF:-1 group-title="Комедии", BCU Comedy HD
+http://list.ydns.eu:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Комедии", Viasat Kino Comedy
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+#EXTINF:-1 group-title="Сериалы", Киносерия HD
+https://cdn-cache01.voka.tv:443/live/79.m3u8
+#EXTINF:-1 group-title="Сериалы", Viju+ Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы", Мир сериала 
+https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-id="ntv-serial", НТВ-Сериал HD 
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 group-title="Фантастика", .sci-fi 
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+#EXTINF:-1 group-title="Фантастика", FAN 
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:-1 group-title="Фантастика", FAN HD 
+http://moobl.ru/iptv/FAN_hd.m3u8
+#EXTINF:-1 tvg-id="kineko" group-title="Национальное", Кинеко HD 
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
+#EXTINF:-1 group-title="Национальное", Cinema HD
+https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
+#EXTINF:-1 group-title="Национальное", Hollywood HD 
+http://%64%6D%693%79-%74%76.ru/hls/CH_HOLLYWOODHD.m3u8
+#EXTINF:-1 group-title="Национальное", Bollywood HD
+https://moobl.ru/iptv/Bollywood_hd.m3u8
+#EXTINF:-1 group-title="Национальное", Timeless Dizi Channel 
+https://moobl.ru/iptv/Timeless_dizi_HD.m3u8
+#EXTINF:-1 group-title="Национальное", Индия
+http://91.197.104.34:8080/India/video.m3u8
+#EXTINF:-1 group-title="Национальное", Дорама HD 
+http://okkotv-live.cdnvideo.ru/channel/Dorama_HD/1080p.m3u8
+#EXTINF:-1 group-title="Национальное", Еврокино
+https://cdn-cache01.voka.tv:443/live/903.m3u8
+#EXTINF:-1 group-title="Национальное", Индийское кино 
+https://cdn-cache01.voka.tv:443/live/1447.m3u8
+#EXTINF:-1 group-title="Национальное", Сапфир HD
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/1080p.m3u8
+#EXTINF:-1 group-title="Национальное", Film.Ua Drama
+https://ucdn.beetv.kz/btv/live/hls/000003028.m3u8
+#EXTINF:-1 group-title="Страшное", Киноужас HD
+http://91.197.104.34:8080/Kinouzhas/video.m3u8
+#EXTINF:-1 group-title="Страшное" tvg-id="trashtv", Trash HD 
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 tvg-id="backustv-horror" tvg-group="Страшное", BackusTV Dark HD 
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="Страшное", Остросюжетное HD 
+http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
+#EXTINF:-1 group-title="Страшное", НСТ 
+https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1 group-title="Страшное", Шокирующее HD
+http://195.161.68.11:8006/playlist.m3u8
+#EXTINF:-1 group-title="Страшное", Scream HD
+http://%64%6D%693%79-%74%76.ru/hls/CH_SCREAMHD.m3u8
